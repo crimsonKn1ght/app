@@ -1,0 +1,10 @@
+asgiref
+Django
+django-cors-headers                     # cross origin issue solved via this import
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+pytz
+sqlparse
+psycopg2-binary
+python-dotenv
