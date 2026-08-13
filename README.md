@@ -1,4 +1,4 @@
-# App
+# django-react-notes
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat)](backend/requirements.txt)
 [![Node](https://img.shields.io/badge/Node-18%2B-green.svg?style=flat)](frontend/package.json)
