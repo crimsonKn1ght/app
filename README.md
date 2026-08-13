@@ -1,5 +1,8 @@
 # App
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat)](backend/requirements.txt)
+[![Node](https://img.shields.io/badge/Node-18%2B-green.svg?style=flat)](frontend/package.json)
+
 A notes application with a Django REST API backend and a React (Vite) frontend. Users register, log in, and manage their own notes. Authentication is handled with JWT.
 
 ## Tech stack
